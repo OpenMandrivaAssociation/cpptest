@@ -5,7 +5,7 @@
 Summary:	A portable and powerful and simple unit testing framework for C++
 Name:		cpptest
 Version:	1.1.2
-Release:	%mkrel 1
+Release:	2
 Group:		System/Libraries
 License:	LGPLv2+
 URL:		http://%{name}.sourceforge.net/
