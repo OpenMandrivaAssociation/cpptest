@@ -8,7 +8,7 @@ Version:	1.1.2
 Release:	2
 Group:		System/Libraries
 License:	LGPLv2+
-URL:		http://%{name}.sourceforge.net/
+URL:		https://%{name}.sourceforge.net/
 Source0:	http://downloads.sourceforge.net/%{name}/%{name}-%{version}.tar.gz
 BuildRequires:	autoconf
 BuildRequires:	doxygen
